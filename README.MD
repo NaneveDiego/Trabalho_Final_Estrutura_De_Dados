@@ -7,7 +7,9 @@ Integrantes
 Turma B - Ciencias da Computação
 
 Tema A -> A1 — Playlist de Músicas
+
 Tema B -> B2 — Chamadas de Emergência
+
 Tema C -> C1 — Atendimento Bancário
 
 Resumo do programa A
