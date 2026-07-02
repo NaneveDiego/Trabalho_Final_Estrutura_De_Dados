@@ -1,4 +1,4 @@
-# Trabalho FInal de Estrutura de Dados
+# Trabalho Final de Estrutura de Dados
 
 ## Integrantes
 - Anthony Lima Santigado de Almeida 
